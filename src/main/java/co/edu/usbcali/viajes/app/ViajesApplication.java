@@ -47,12 +47,12 @@ public class ViajesApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		
 //	   buscarPorId(2);
-//	   consultarTiposDestino();
+	   consultarTiposDestino();
 //	   eliminarTipoDestino(2);
 //	   buscarTodosTiposDestinoOrdenados();
 //	   consultaTipoDestinoPorCodigo();
 //	   consultaTiposDestinoPorEstadoPorCodigo();
-	   guardarDestino();
+//	   guardarDestino();
 //	   eliminarDestino();
 //	   actualizarDestino();
 //	   consultarDestinoPorCodigoPorEstado();
@@ -90,6 +90,7 @@ public class ViajesApplication implements CommandLineRunner{
 			for (TipoDestino tipoDestino : lstTipoDestino) {
 				log.info("Tipo destino: "+tipoDestino.getCodigo() + " - " + tipoDestino.getNombre());
 			}
+			log.info("se agraga comentario");
 			
 		} catch (Exception e) {
 			log.error(e.getMessage());

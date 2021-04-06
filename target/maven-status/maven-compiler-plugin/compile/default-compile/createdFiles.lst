@@ -1,0 +1,12 @@
+co/edu/usbcali/viajes/app/service/TipoDestinoServiceImpl.class
+co/edu/usbcali/viajes/app/ViajesApplication.class
+co/edu/usbcali/viajes/app/repository/DestinoRepository.class
+co/edu/usbcali/viajes/app/dto/TipoDestinoDTO.class
+co/edu/usbcali/viajes/app/service/TipoDestinoService.class
+co/edu/usbcali/viajes/app/domain/Destino.class
+co/edu/usbcali/viajes/app/domain/TipoDestino.class
+co/edu/usbcali/viajes/app/service/GenericService.class
+co/edu/usbcali/viajes/app/service/DestinoServiceImpl.class
+co/edu/usbcali/viajes/app/service/DestinoService.class
+co/edu/usbcali/viajes/app/repository/TipoDestinoRepository.class
+co/edu/usbcali/viajes/app/utils/Constantes.class

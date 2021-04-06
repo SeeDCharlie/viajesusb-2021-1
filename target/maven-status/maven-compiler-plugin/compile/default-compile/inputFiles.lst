@@ -1,0 +1,12 @@
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/domain/Destino.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/repository/DestinoRepository.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/dto/TipoDestinoDTO.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/domain/TipoDestino.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/service/TipoDestinoServiceImpl.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/service/DestinoServiceImpl.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/service/GenericService.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/service/DestinoService.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/utils/Constantes.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/repository/TipoDestinoRepository.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/service/TipoDestinoService.java
+/home/seed/Documentos/empresariales/forkViajes/viajesusb-2021-1/src/main/java/co/edu/usbcali/viajes/app/ViajesApplication.java
